@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO.
-http://play.pelusa.online:8080/live/maryparra/qFTcydPkKDQZ/322820.m3u8
+http://daleplaytv.vip/live/LmyHkfVA2Jmn/g9USBhXgMkCe/608938.m3u
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO..
 http://23.153.217.158:8080/998411519tv/pa9qnqi/139
 #EXTINF:-1 tvg-id="HBO(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO...
@@ -15,9 +15,9 @@ http://planettvweb.com:8091/Owa367/42FShe31/16290
 
 
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2.
-http://planettvweb.com:8091/Owa367/42FShe31/11656
+http://daleplaytv.vip/live/LmyHkfVA2Jmn/g9USBhXgMkCe/608937.m3u
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2..
-http://planettvweb.com:8091/Owa367/42FShe31/11645
+http://daleplaytv.vip/live/LmyHkfVA2Jmn/g9USBhXgMkCe/608935.m3u
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2...
 http://planettvweb.com:8091/Owa367/42FShe31/11654
 #EXTINF:-1 tvg-id="HBO2(Spanish).mx" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO 2....
@@ -27,13 +27,13 @@ http://planettvweb.com:8091/Owa367/42FShe31/11654
 
 
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family.
-http://23.153.217.158:8080/998411519tv/pa9qnqi/135
+http://daleplaytv.vip/live/LmyHkfVA2Jmn/g9USBhXgMkCe/608936.m3u
 #EXTINF:-1 tvg-id="HBOFamily(Spanish).mx" tvg-name="HBO Family HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Family..
 http://23.153.217.158:8080/998411519tv/pa9qnqi/137
 
 
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME.
-http://play.pelusa.online:8080/live/maryparra/qFTcydPkKDQZ/322823.m3u8
+http://daleplaytv.vip/live/LmyHkfVA2Jmn/g9USBhXgMkCe/608930.m3u
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO XTREME" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO XTREME..
 http://45.5.119.43:4000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme(Spanish).mx" tvg-name="HBO Xtreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Xtreme...
@@ -41,24 +41,24 @@ http://planettvweb.com:8091/Owa367/42FShe31/26321
 
 
 #EXTINF:-1 tvg-id="HBOPlus(Spanish).mx" tvg-name="HBO Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Plus.
-http://23.153.217.158:8080/998411519tv/pa9qnqi/145
+http://daleplaytv.vip/live/LmyHkfVA2Jmn/g9USBhXgMkCe/608933.m3u
 #EXTINF:-1 tvg-id="HBOPlus(Spanish).mx" tvg-name="HBO PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO PLUS..
 http://play.pelusa.online:8080/live/maryparra/qFTcydPkKDQZ/322821.m3u8
 
 #EXTINF:-1 tvg-id="HBOPOP(Spanish).mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO POP.
-http://play.pelusa.online:8080/live/maryparra/qFTcydPkKDQZ/322822.m3u8
+http://daleplaytv.vip/live/LmyHkfVA2Jmn/g9USBhXgMkCe/608932.m3u
 #EXTINF:-1 tvg-id="HBOPOP(Spanish).mx" tvg-name="HBO POP HD" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/03/C_457-1.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO POP..
 http://flive.lat:8080/live/kp6026/maZ8yakt4EVn/120068.m3u8
 
 
 
 #EXTINF:-1 tvg-id="HBOMundi(Spanish).mx" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Mundi.
-http://play.pelusa.online:8080/live/maryparra/qFTcydPkKDQZ/31633.m3u8
+http://daleplaytv.vip/live/LmyHkfVA2Jmn/g9USBhXgMkCe/608934.m3u
 #EXTINF:-1 tvg-id="HBOMundi(Spanish).mx" tvg-name="HBO Mundi" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_mundi-mediano.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa", HBO Mundi..
 http://elpapanatas.space:8080/Oliver123/Oliver123/245779
 
 #EXTINF:-1 tvg-id="HBOSignature(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature.
-http://play.pelusa.online:8080/live/maryparra/qFTcydPkKDQZ/31108.m3u8
+http://daleplaytv.vip/live/LmyHkfVA2Jmn/g9USBhXgMkCe/608931.m3u
 #EXTINF:-1 tvg-id="HBOSignature(Spanish).mx" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="todos" tvg-shift="-7", audio-track="esp,spa",  audio-track="esp,spa", HBO Signature..
 http://23.153.217.158:8080/998411519tv/pa9qnqi/152
 
